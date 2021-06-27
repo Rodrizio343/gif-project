@@ -1,0 +1,11 @@
+.Category-list{
+    list-style: unset !important;
+}
+.Category-list li{
+    display: inline-block;
+
+}
+.Category-link{
+    color: #ffffff !important;
+    margin-right: 15px;
+}
